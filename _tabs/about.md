@@ -12,7 +12,7 @@ order: 4
     <span style="color:black"> / Seoul, Republic of Korea</span>
   </span>
   <span>Expected Graduation Date: Feb 2027</span></div>
-B.S. in Software Convergence, College of Software (Cumulative GPA: 4.19/4.5)
+B.S. in Software Convergence, College of Software (Cumulative GPA: 4.23/4.5)
 
 ### 💻 Work Experience
 ><div style="display:flex; justify-content:space-between; margin-bottom:5px; width:100%;">
